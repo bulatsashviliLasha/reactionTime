@@ -1,4 +1,4 @@
-# (https://vigilant-galileo-431ee7.netlify.app/)[Reaction Time]
+# (Reaction Time)[https://vigilant-galileo-431ee7.netlify.app/]
 
 ## Project setup
 ```
